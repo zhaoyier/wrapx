@@ -9,8 +9,8 @@ import (
 	"runtime"
 	"strings"
 
-	"git.ezbuy.me/ezbuy/evtalk/common/errors"
-	"git.ezbuy.me/ezbuy/evtalk/common/tools"
+	"github.com/src/zhaoyier/wrapx/errors"
+	"github.com/src/zhaoyier/wrapx/tools"
 )
 
 // GetModuleInfo find and get module info , return module [ name ,path ]

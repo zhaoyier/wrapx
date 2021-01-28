@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"strings"
 
-	"git.ezbuy.me/ezbuy/evtalk/common/mydoc/mymarkdown"
-	"git.ezbuy.me/ezbuy/evtalk/common/mydoc/myswagger"
+	"github.com/src/zhaoyier/wrapx/mydoc/mymarkdown"
+	"github.com/src/zhaoyier/wrapx/mydoc/myswagger"
 )
 
 func (m *model) analysisStructInfo(info *StructInfo) {

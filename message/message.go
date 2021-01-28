@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"sync"
 
-	"git.ezbuy.me/ezbuy/evtalk/common/log"
+	"github.com/src/zhaoyier/wrapx/log"
 )
 
 // MessageBody 消息头

@@ -6,8 +6,8 @@ import (
 	"go/token"
 	"strings"
 
-	"git.ezbuy.me/ezbuy/evtalk/common/mydoc"
-	"git.ezbuy.me/ezbuy/evtalk/common/tools"
+	"github.com/src/zhaoyier/wrapx/mydoc"
+	"github.com/src/zhaoyier/wrapx/tools"
 )
 
 type structAnalys struct {
