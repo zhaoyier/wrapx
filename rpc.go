@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	// "evtalk/common/api"
-	"github.com/src/zhaoyier/wrapx/api"
+	"git.ezbuy.me/ezbuy/evtalk/common/api"
 
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"

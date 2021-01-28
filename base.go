@@ -13,16 +13,16 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/src/zhaoyier/wrapx/log"
+	"git.ezbuy.me/ezbuy/evtalk/common/log"
 
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator"
 
-	"github.com/src/zhaoyier/wrapx/errors"
-	"github.com/src/zhaoyier/wrapx/message"
-	"github.com/src/zhaoyier/wrapx/myast"
-	"github.com/src/zhaoyier/wrapx/mydoc"
-	myreflect "github.com/src/zhaoyier/wrapx/reflect"
+	"git.ezbuy.me/ezbuy/evtalk/common/errors"
+	"git.ezbuy.me/ezbuy/evtalk/common/message"
+	"git.ezbuy.me/ezbuy/evtalk/common/myast"
+	"git.ezbuy.me/ezbuy/evtalk/common/mydoc"
+	myreflect "git.ezbuy.me/ezbuy/evtalk/common/reflect"
 )
 
 func (b *_Base) parseReqResp(typ reflect.Type, isObj bool) (reflect.Type, reflect.Type) {

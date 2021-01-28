@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"strings"
 
+	"git.ezbuy.me/ezbuy/evtalk/common/api"
 	"github.com/gin-gonic/gin"
-	"github.com/src/zhaoyier/wrapx/api"
 )
 
 /*
@@ -64,7 +64,7 @@ var (
 	
 	import (
 		// "git.ezbuy.me/ezbuy/evtalk/github.com/xxjwxc/ginrpc"
-		// "github.com/src/zhaoyier/wrapx/log"
+		// "git.ezbuy.me/ezbuy/evtalk/common/log"
 	)
 	
 	func init() {

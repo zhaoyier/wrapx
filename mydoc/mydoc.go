@@ -4,9 +4,9 @@ import (
 	"html/template"
 	"sort"
 
-	"github.com/src/zhaoyier/wrapx/mydoc/mymarkdown"
-	"github.com/src/zhaoyier/wrapx/mydoc/myswagger"
-	"github.com/src/zhaoyier/wrapx/tools"
+	"git.ezbuy.me/ezbuy/evtalk/common/mydoc/mymarkdown"
+	"git.ezbuy.me/ezbuy/evtalk/common/mydoc/myswagger"
+	"git.ezbuy.me/ezbuy/evtalk/common/tools"
 )
 
 type model struct {

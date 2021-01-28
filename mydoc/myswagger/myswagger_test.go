@@ -3,7 +3,7 @@ package myswagger
 import (
 	"testing"
 
-	"github.com/src/zhaoyier/wrapx/tools"
+	"git.ezbuy.me/ezbuy/evtalk/common/tools"
 )
 
 func TestDomain(t *testing.T) {

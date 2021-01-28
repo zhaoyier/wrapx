@@ -3,7 +3,7 @@ package myswagger
 import (
 	"strings"
 
-	"github.com/src/zhaoyier/wrapx/tools"
+	"git.ezbuy.me/ezbuy/evtalk/common/tools"
 )
 
 // DocSwagger ...

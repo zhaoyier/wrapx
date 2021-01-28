@@ -11,8 +11,8 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/src/zhaoyier/wrapx/serializing"
-	"github.com/src/zhaoyier/wrapx/tools"
+	"git.ezbuy.me/ezbuy/evtalk/common/serializing"
+	"git.ezbuy.me/ezbuy/evtalk/common/tools"
 )
 
 const (

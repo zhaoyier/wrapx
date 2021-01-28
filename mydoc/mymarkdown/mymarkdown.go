@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/src/zhaoyier/wrapx/tools"
+	"git.ezbuy.me/ezbuy/evtalk/common/tools"
 )
 
 // DocMarkdown
